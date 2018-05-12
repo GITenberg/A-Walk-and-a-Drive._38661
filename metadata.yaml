@@ -1,0 +1,31 @@
+_repo: A-Walk-and-a-Drive._38661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Thomas
+    birthdate: 1807
+    deathdate: 1874
+    gutenberg_agent_id: '39601'
+    url: http://www.gutenberg.org/2009/agents/39601
+description: ''
+gutenberg_issued: '2012-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Invalids -- Juvenile fiction'
+- !lcsh 'Landscapes -- France -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Natural history -- France -- Juvenile fiction'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Walk and a Drive.
+url: http://www.gutenberg.org/ebooks/38661
